@@ -1,0 +1,3 @@
+[submodule "event-management-backend"]
+	path = event-management-backend
+	url = https://github.com/pranav-kale-01/event-management-backend
